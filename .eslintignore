@@ -1,0 +1,7 @@
+/node_modules/
+/karma.conf.js
+/webpack.config.js
+/dist/
+/test/unit/data.js
+build/*.js
+config/*.js
